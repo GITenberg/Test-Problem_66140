@@ -1,11 +1,16 @@
 _repo: Test-Problem_66140
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66140-h/images/cover.jpg
 creator:
   author:
     agent_name: Ramm, Alan J.
     gutenberg_agent_id: '53235'
     url: http://www.gutenberg.org/2009/agents/53235
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66140#Test-Problem
 gutenberg_issued: '2021-08-25'
 identifiers:
   gutenberg: '66140'
